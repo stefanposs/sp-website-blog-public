@@ -1038,6 +1038,9 @@
   .py-\[2\.5px\] {
     padding-block: 2.5px;
   }
+  .pt-0 {
+    padding-top: calc(var(--spacing) * 0);
+  }
   .pt-7 {
     padding-top: calc(var(--spacing) * 7);
   }
