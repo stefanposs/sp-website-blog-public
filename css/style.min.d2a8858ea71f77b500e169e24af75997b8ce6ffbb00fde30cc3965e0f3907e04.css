@@ -344,9 +344,6 @@
   .mr-2 {
     margin-right: calc(var(--spacing) * 2);
   }
-  .mr-3 {
-    margin-right: calc(var(--spacing) * 3);
-  }
   .mr-4 {
     margin-right: calc(var(--spacing) * 4);
   }
@@ -1035,11 +1032,6 @@
       grid-column: 4;
     }
   }
-  .lg\:col-5 {
-    @media (width >= 64rem) {
-      grid-column: 5;
-    }
-  }
   .lg\:col-6 {
     @media (width >= 64rem) {
       grid-column: 6;
@@ -1110,12 +1102,6 @@
     @media (width >= 64rem) {
       flex: 0 0 auto;
       width: 33.333333333333336%;
-    }
-  }
-  .lg\:col-5 {
-    @media (width >= 64rem) {
-      flex: 0 0 auto;
-      width: 41.66666666666667%;
     }
   }
   .lg\:col-6 {
