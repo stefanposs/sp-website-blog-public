@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Not content: the search index and the PWA manifest.
+Disallow: /searchindex.json
+Disallow: /manifest.webmanifest
+
+Sitemap: https://www.stefanposs.com/sitemap.xml
+
+# Plain-text site overview for language models — see https://llmstxt.org/
+# https://www.stefanposs.com/llms.txt

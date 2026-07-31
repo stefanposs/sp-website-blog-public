@@ -1,0 +1,42 @@
+# STEFANPOSS
+
+> Blog aus dem Entwickleralltag plus eigene Werkzeuge für Netzwerkplanung, Cloud und Daten. Kein Bullshit, nur echte Dev-Realität.
+
+Autor: Stefan Poss
+Sprache: Deutsch
+Kanonische Domain: https://www.stefanposs.com/
+
+Diese Website ist Marketing- und Content-Hub. Sie enthält Blogartikel und
+Landingpages zu eigenen Projekten. Die Anwendungen selbst liegen in separaten
+Repositories und sind von hier verlinkt.
+
+
+## Projekte
+
+Werkzeuge, die aus meiner eigenen Projektarbeit entstanden sind: Netzwerkplanung aus dem Bauplan, Netzwerk-Audit, automatische Dokumentation und Datentransfer für KMU.
+
+- [Netpilot – Netzwerkplanung aus dem Bauplan](https://www.stefanposs.com/projects/netpilot/): Netpilot liest deinen Bauplan, erkennt die Räume und plant Netzwerkdosen und Access Points – bis zur Materialliste und einem PDF für den Elektriker. (Status: In Entwicklung)
+- [UniFi Audit](https://www.stefanposs.com/projects/unifi-audit/): Idee für ein Werkzeug, das sich mit dem UniFi-Controller verbindet, das Netzwerk analysiert und konkrete Empfehlungen ausgibt – statt eines Dashboards voller Grafiken. (Status: Idee)
+- [Automatische Netzwerkdokumentation](https://www.stefanposs.com/projects/netzwerkdokumentation/): Idee für ein Werkzeug, das die Netzwerkdokumentation aus dem laufenden System erzeugt – als PDF, Markdown und Draw.io-Diagramm, statt als Word-Datei, die niemand pflegt. (Status: Idee)
+- [Content Studio](https://www.stefanposs.com/projects/content-studio/): Das Werkzeug, mit dem diese Website entsteht: Markdown im Repository, Änderungen als Pull Request. Kein Produkt, sondern offengelegtes Werkzeug. (Status: Internes Werkzeug)
+
+
+## Blog
+
+Geschichten und Analysen aus der Softwareentwicklung: Legacy-Code, Cloud, Daten und Netzwerke – mit Humor da, wo er hilft.
+
+- [Scrum, Chaos und Klarheit: Was Teams wirklich stark macht](https://www.stefanposs.com/blog/2026/scrum-chaos-und-klarheit-was-teams-wirklich-stark-macht/) — 2026-05-16: Agilität ist mehr als Meetings und Post-its. Warum echte Zusammenarbeit, Erwartungsmanagement und ein gemeinsames Verständnis wichtiger sind als jede Zeremonie – und wie Teams so wirklich wachsen.
+- [Die 1.500-Zeilen-Klasse: Eine Tragödie in drei Akten (und ohne Happy End)](https://www.stefanposs.com/blog/2025/die-1.500-zeilen-klasse-eine-trag%C3%B6die-in-drei-akten-und-ohne-happy-end/) — 2025-07-01: Eine Code-Comedy über Monster-Klassen, missverstandene Architektur und die Frage: Warum programmieren wir eigentlich wie im Jahr 1995? Von Demo-Katastrophen über Git-Blame-Archäologie bis zum Live-Refactoring – eine humorvolle Reise durch den Entwickleralltag. Ein praktischer Leitfaden, warum kleine austauschbare Komponenten dein wichtigstes Werkzeug sind.
+- [Eine Datenbank ist keine API... oder doch?](https://www.stefanposs.com/blog/2025/eine-datenbank-ist-keine-api...-oder-doch/) — 2025-06-20: Kann eine Datenbank als API fungieren? Technisch gesehen, ja. Strategisch gesehen ist es ein Fehler.
+- [Büro-Life: Der tägliche Kampf um Fokus und Realität](https://www.stefanposs.com/blog/2025/buero-life---der-t%C3%A4gliche-kampf-um-fokus-und-realitaet/) — 2025-06-17: Pendeln, Open-Space-Lärm und der dritttausendste Versuch, in den Flow zu kommen: warum 'Komm ins Büro, dann arbeiten wir zusammen' im Alltag oft das Gegenteil bewirkt.
+- [Currywurst, Schnittstellen und der ganz normale Wahnsinn](https://www.stefanposs.com/blog/2025/currywurst-schnittstellen-und-der-ganz-normale-wahnsinn/) — 2025-02-19: Erleben Sie den humorvollen Alltag eines Entwicklers, der sich zwischen Currywurst und komplexen Schnittstellenentscheidungen wiederfindet. Ein unterhaltsamer Einblick in die Welt der Softwareentwicklung.
+- [Guter Code und die Pizza-Metapher: Ein Montagmorgen mit Lerneffekt](https://www.stefanposs.com/blog/2025/guter-code-und-die-pizza-metapher-ein-montagmorgen-mit-lerneffekt/) — 2025-01-19: Erfahre, wie guter Code mit einer Pizza verglichen werden kann und welche fünf goldenen Zutaten für guten Code wichtig sind. Ein humorvoller Montagmorgen mit Lerneffekt.
+
+
+## Kontakt
+
+E-Mail: hello@stefanposs.com
+Twitter: https://x.com/atstaeff
+Github: https://github.com/stefanposs
+Linkedin: https://www.linkedin.com/in/atstaeff/
+
