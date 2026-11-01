@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="500" viewBox="0 0 1024 500" role="img" aria-labelledby="title desc">
+<title id="title">AI-native Engineering – vom Coding-Agenten zum funktionierenden System</title>
+<desc id="desc">Drei spezialisierte Agenten mit unterschiedlichen Ausgaben werden durch gemeinsame Schnittstellen zu einem integrierten Ergebnis verbunden.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101A29"/><stop offset="1" stop-color="#17273B"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#56D4BA"/><stop offset="1" stop-color="#A6EDD1"/></linearGradient>
+</defs>
+<rect width="1024" height="500" fill="url(#bg)"/>
+<g opacity=".1" stroke="#B7D2E5" stroke-width="1"><path d="M0 74H1024M0 148H1024M0 222H1024M0 296H1024M0 370H1024M0 444H1024"/><path d="M80 0V500M200 0V500M320 0V500M440 0V500M560 0V500M680 0V500M800 0V500M920 0V500"/></g>
+<text x="70" y="92" fill="#62D5BF" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="3" font-weight="700">TECH LENS / SOFTWARE ENGINEERING</text>
+<text x="70" y="160" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700">Wenn KI den Code schreibt,</text>
+<text x="70" y="211" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700">wer entwickelt die Software?</text>
+<text x="70" y="253" fill="#BACBDA" font-family="Arial,Helvetica,sans-serif" font-size="19">Vom einzelnen Agenten zum integrierten Ergebnis.</text>
+<g transform="translate(70 306)">
+<rect x="0" y="0" width="188" height="88" rx="11" fill="#243B4F" stroke="#527387"/>
+<rect x="208" y="0" width="188" height="88" rx="11" fill="#243B4F" stroke="#527387"/>
+<rect x="416" y="0" width="188" height="88" rx="11" fill="#243B4F" stroke="#527387"/>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle"><text x="94" y="35" font-size="17" font-weight="700" fill="#FFFFFF">API AGENT</text><text x="94" y="60" font-size="14" fill="#9CB5C8">Backend</text><text x="302" y="35" font-size="17" font-weight="700" fill="#FFFFFF">UI AGENT</text><text x="302" y="60" font-size="14" fill="#9CB5C8">Frontend</text><text x="510" y="35" font-size="17" font-weight="700" fill="#FFFFFF">TEST AGENT</text><text x="510" y="60" font-size="14" fill="#9CB5C8">Quality</text></g>
+<path d="M188 44H208M396 44H416" stroke="#56D4BA" stroke-width="3" stroke-dasharray="5 5"/>
+<path d="M604 44H640" stroke="#56D4BA" stroke-width="3"/>
+<path d="M633 37L642 44L633 51" fill="none" stroke="#56D4BA" stroke-width="3"/>
+<rect x="651" y="0" width="228" height="88" rx="11" fill="#1D514D" stroke="url(#accent)" stroke-width="2"/>
+<path d="M680 43L691 54L713 31" stroke="#83E4C9" fill="none" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="727" y="38" fill="#FFFFFF" font-size="18" font-weight="700" font-family="Arial,Helvetica,sans-serif">INTEGRIERT</text>
+<text x="727" y="61" fill="#B1EADA" font-size="14" font-family="Arial,Helvetica,sans-serif">Geprüftes Ergebnis</text>
+</g>
+<rect x="70" y="448" width="884" height="2" rx="1" fill="#426778"/>
+<text x="70" y="473" fill="#96AFC0" font-size="13" font-family="Arial,Helvetica,sans-serif">stefanposs.com</text>
+</svg>

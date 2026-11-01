@@ -25,6 +25,7 @@ Werkzeuge, die aus meiner eigenen Projektarbeit entstanden sind: Netzwerkplanung
 
 Geschichten und Analysen aus der Softwareentwicklung: Legacy-Code, Cloud, Daten und Netzwerke – mit Humor da, wo er hilft.
 
+- [Wenn KI den Code schreibt, wer entwickelt dann eigentlich die Software?](https://www.stefanposs.com/blog/2026/wenn-ki-den-code-schreibt-ai-native-engineering/) — 2026-11-01: Mehr Coding-Agenten bedeuten nicht automatisch bessere Software. Wie klare Verträge, Orchestrierung, Integration und Quality Gates den Engineering Lifecycle verändern.
 - [Das Interface passt. Das Verhalten nicht.](https://www.stefanposs.com/blog/2026/austauschbare-komponenten-verhaltensvertrag/) — 2026-10-19: Warum austauschbare Komponenten mehr brauchen als dieselben Methoden: ein Zahlungsbeispiel mit Verhaltensvertrag, Python-Code und einem Test für verlorene Antworten.
 - [Wie wir arbeiten, weiß Lisa. Lisa hat Urlaub.](https://www.stefanposs.com/blog/2026/wie-wir-arbeiten-weiss-lisa-lisa-hat-urlaub/) — 2026-10-16: Wer neu ins Projekt kommt, muss verstehen, wie das Team arbeitet und was gilt. Wie klare Abläufe und festgehaltene Entscheidungen dabei helfen – mit und ohne KI.
 - [Scrum, Chaos und Klarheit: Was Teams wirklich stark macht](https://www.stefanposs.com/blog/2026/scrum-chaos-und-klarheit-was-teams-wirklich-stark-macht/) — 2026-05-16: Agilität ist mehr als Meetings und Post-its. Warum echte Zusammenarbeit, Erwartungsmanagement und ein gemeinsames Verständnis wichtiger sind als jede Zeremonie – und wie Teams so wirklich wachsen.
